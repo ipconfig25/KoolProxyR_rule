@@ -1,19 +1,19 @@
-!  ******************************* koolproxy Óï·¨*******************************
-!  Ò»ĞĞÒ»¸ö£¬Çë±ØĞë±ê×¢Çå³şhttpÓëhttps
-!  https ±ØĞëÎªÓòÃû£¬²»ÄÜÊ¹ÓÃ * ²»È»»áGGµÄ¡£
-!  ÀıÈç ||users.51.la^$third-party Ğ´³É ||http://users.51.la^$third-party ¼´¿É¡£Ö»ĞèÒªÔÚ
-!  "!" ÎªĞĞ×¢ÊÍ·û£¬×¢ÊÍĞĞÒÔ¸Ã·ûºÅÆğÊ¼×÷ÎªÒ»ĞĞ×¢ÊÍÓïÒå£¬ÓÃÓÚ¹æÔòÃèÊö
-!  "@@" Îª°×Ãûµ¥·û£¬°×Ãûµ¥¾ßÓĞ×î¸ßÓÅÏÈ¼¶£¬·ÅĞĞ¹ıÂËµÄÍøÕ¾£¬https ĞèÒªËÄ¸ö @@@@ ÀıÈç:@@@@||https://taobao.com
+!  ******************************* koolproxy è¯­æ³•*******************************
+!  ä¸€è¡Œä¸€ä¸ªï¼Œè¯·å¿…é¡»æ ‡æ³¨æ¸…æ¥šhttpä¸https
+!  https å¿…é¡»ä¸ºåŸŸåï¼Œä¸èƒ½ä½¿ç”¨ * ä¸ç„¶ä¼šGGçš„ã€‚
+!  ä¾‹å¦‚ ||users.51.la^$third-party å†™æˆ ||http://users.51.la^$third-party å³å¯ã€‚åªéœ€è¦åœ¨
+!  "!" ä¸ºè¡Œæ³¨é‡Šç¬¦ï¼Œæ³¨é‡Šè¡Œä»¥è¯¥ç¬¦å·èµ·å§‹ä½œä¸ºä¸€è¡Œæ³¨é‡Šè¯­ä¹‰ï¼Œç”¨äºè§„åˆ™æè¿°
+!  "@@" ä¸ºç™½åå•ç¬¦ï¼Œç™½åå•å…·æœ‰æœ€é«˜ä¼˜å…ˆçº§ï¼Œæ”¾è¡Œè¿‡æ»¤çš„ç½‘ç«™ï¼Œhttps éœ€è¦å››ä¸ª @@@@ ä¾‹å¦‚:@@@@||https://taobao.com
 !  ------------------------------------------------------------------------------------------
-!  "*" Îª×Ö·ûÍ¨Åä·û£¬ÄÜ¹»Æ¥Åä0³¤¶È»òÈÎÒâ³¤¶ÈµÄ×Ö·û´®£¬¸ÃÍ¨Åä·û²»ÄÜÓëÕıÔòÓï·¨»ìÓÃ¡£
-!  "^" Îª·Ö¸ô·û£¬¿ÉÒÔÊÇ³ıÁË×ÖÄ¸¡¢Êı×Ö»òÕß _ - . % Ö®ÍâµÄÈÎºÎ×Ö·û¡£
-!  "~" ÎªÅÅ³ı±êÊ¶·û£¬Í¨Åä·ûÄÜ¹ıÂË´ó¶àÊı¹ã¸æ£¬µ«Í¬Ê±´æÔÚÎóÉ±, ¿ÉÒÔÍ¨¹ıÅÅ³ı±êÊ¶·ûĞŞÕıÎóÉ±Á´½Ó¡£
-!  ×¢£ºÍ¨Åä·û½öÔÚ url ¹æÔòÖĞÖ§³Ö£¬html ¹æÔòÖĞ²»Ö§³Ö
+!  "*" ä¸ºå­—ç¬¦é€šé…ç¬¦ï¼Œèƒ½å¤ŸåŒ¹é…0é•¿åº¦æˆ–ä»»æ„é•¿åº¦çš„å­—ç¬¦ä¸²ï¼Œè¯¥é€šé…ç¬¦ä¸èƒ½ä¸æ­£åˆ™è¯­æ³•æ··ç”¨ã€‚
+!  "^" ä¸ºåˆ†éš”ç¬¦ï¼Œå¯ä»¥æ˜¯é™¤äº†å­—æ¯ã€æ•°å­—æˆ–è€… _ - . % ä¹‹å¤–çš„ä»»ä½•å­—ç¬¦ã€‚
+!  "~" ä¸ºæ’é™¤æ ‡è¯†ç¬¦ï¼Œé€šé…ç¬¦èƒ½è¿‡æ»¤å¤§å¤šæ•°å¹¿å‘Šï¼Œä½†åŒæ—¶å­˜åœ¨è¯¯æ€, å¯ä»¥é€šè¿‡æ’é™¤æ ‡è¯†ç¬¦ä¿®æ­£è¯¯æ€é“¾æ¥ã€‚
+!  æ³¨ï¼šé€šé…ç¬¦ä»…åœ¨ url è§„åˆ™ä¸­æ”¯æŒï¼Œhtml è§„åˆ™ä¸­ä¸æ”¯æŒ
 !  ------------------------------------------------------------------------------------------
-!  "|" Îª¹ÜÏß·ûºÅ£¬À´±íÊ¾µØÖ·µÄ×îÇ°¶Ë»ò×îÄ©¶Ë
-!  "||" Îª×ÓÓòÍ¨Åä·û£¬·½±ãÆ¥ÅäÖ÷ÓòÃûÏÂµÄËùÓĞ×ÓÓò
+!  "|" ä¸ºç®¡çº¿ç¬¦å·ï¼Œæ¥è¡¨ç¤ºåœ°å€çš„æœ€å‰ç«¯æˆ–æœ€æœ«ç«¯
+!  "||" ä¸ºå­åŸŸé€šé…ç¬¦ï¼Œæ–¹ä¾¿åŒ¹é…ä¸»åŸŸåä¸‹çš„æ‰€æœ‰å­åŸŸ
 ! -------------------------------------------------------------------------------------------
-!ÓÅ¿á¹æÔò²¹³ä¡£
+!ä¼˜é…·è§„åˆ™è¡¥å……ã€‚
 @@@@https://*.mp4.ts
 @@||*.mp4.ts
 ||https://youku.com/cms/tool/pub/get_putdata.
@@ -32,21 +32,21 @@
 ||atm.youku.com^$domain=~v.youku.com
 @@@@https://ykugc.cp31.ott.cibntv.net
 @@||ykugc.cp31.ott.cibntv.net
-! ÌÚÑ¶ÊÓÆµ
+! è…¾è®¯è§†é¢‘
 @@@@https://pingjs.qq.com/ping_video.js
 @@@@https://livep.l.qq.com
 @@@@https://vd.l.qq.com
-! °®ÆæÒÕ
+! çˆ±å¥‡è‰º
 @@@@https://data.video.iqiyi.com
 @@@@https://tbcache.com
 @@@@https://71edge.com
 @@@@https://cupid.iqiyi.com
 ! 56 tv
 @@http://s3.56img.com
-!Çı¶¯Ö®¼Ò Ê×Ò³¹ã¸æ
+!é©±åŠ¨ä¹‹å®¶ é¦–é¡µå¹¿å‘Š
 https://news.mydrivers.com###dangbei_down > IMG
 https://news.mydrivers.com###aswift_1
-!Çı¶¯Ö®¼Ò È¥¹ã¸æ²¹³ä£¨È¥¿Õ°×Ò³£¬Ò³Ãæ¸üÃÀ¹Û£©
+!é©±åŠ¨ä¹‹å®¶ å»å¹¿å‘Šè¡¥å……ï¼ˆå»ç©ºç™½é¡µï¼Œé¡µé¢æ›´ç¾è§‚ï¼‰
 ||https://news.mydrivers.com##.baidu_left > .adsbygoogle
 ||https://news.mydrivers.com##.news_right > div:nth-of-type(2)
 ||https://news.mydrivers.com##div.side_ad_top.ad_warp:nth-of-type(8)
@@ -62,7 +62,7 @@ https://news.mydrivers.com###aswift_1
 ||http://www.mydrivers.com##body > div:nth-of-type(7)
 ||https://googlesyndication.com^$third-party
 ||https://tanx.com^$third-party,domain=~1688.com|~alimama.com|~taobao.com|~tmall.com
-!btbtt Ê×Ò³¹ã¸æ
+!btbtt é¦–é¡µå¹¿å‘Š
 http://*btbtt.*##.wrapper_bg_c.hidden-xs
 http://*btbtt.*###wrapper_right_bg
 |http://*btbtt.*/view/image/QT_*
@@ -72,39 +72,39 @@ http://*btbtt.*###wrapper2 > DIV.width:nth-child(2) > DIV.error
 http://www.btbtt.co###wrapper_right_bg
 http://www.btbtt.co###wrapper_left_bg
 ||http://www.btbtt.co##div.width:nth-of-type(2)
-! °®ÆæÒÕ¹ã¸æ
+! çˆ±å¥‡è‰ºå¹¿å‘Š
 @@@@||https://cupid.iqiyi.com^
-!ÌìÌìÃÀ¾ç
+!å¤©å¤©ç¾å‰§
 http://ttmeiju.me##DIV:nth-child(2) > P > A > IMG
 http://ttmeiju.me###footer > DIV:first-child > P > IMG
-! ¹È¸èÍøÅÌ·ÅĞĞ
+! è°·æ­Œç½‘ç›˜æ”¾è¡Œ
 @@@@|https://drive.google.com
 ! macx.cn
 @@@@|https://www.macx.cn
-! Ö±²¥°É
+! ç›´æ’­å§
 ||https://pcgg.qiumibao.com/webAdvert.php$subdocument
 https://www.zhibo8.cc##.ad_box_250
 https://www.zhibo8.cc###popautoapp
-! 5173Ê×Ò³²¹³äÈ¥¹ã¸æ
+! 5173é¦–é¡µè¡¥å……å»å¹¿å‘Š
 ||http://www.5173.com##body > .top
 ||http://www.5173.com##.gg_130 > .close_btn
 ||http://www.5173.com###ggFloat > .inner
 ||http://www.5173.com##.gt-wrapimg-signin
-! ¾Ş³¬Öµ È¥ÏÂ·½µ¯¿ò
+! å·¨è¶…å€¼ å»ä¸‹æ–¹å¼¹æ¡†
 ||https://best.pconline.com.cn###JnoLoginFixedBottom
-! ¶·ÓãÈ¥²¥·ÅÆ÷½âÂëµ¯´°¹ã¸æ
+! æ–—é±¼å»æ’­æ”¾å™¨è§£ç å¼¹çª—å¹¿å‘Š
 https://www.douyu.com##.LotteryContainer
 https://www.douyu.com##.UPlayerLotteryEnter-giftImg
 https://www.douyu.com##.is-baodeng.is-active.UPlayerLotteryEnter
 https://www.douyu.com##.PaladinWeek-toast
 https://www.douyu.com##.closeBg-998534
 ||https://www.douyu.com##.PaladinWeek-toast
-! ÓÎÏÀÓÎÏ·ÂÛÌ³ È¥Ê×Ò³ÉÏ·½¹ã¸æ
+! æ¸¸ä¾ æ¸¸æˆè®ºå› å»é¦–é¡µä¸Šæ–¹å¹¿å‘Š
 ||http://game.ali213.net###wp > div:nth-of-type(1)
 ||http://game.ali213.net###hd_ad
-! ¶¹°êµçÓ°ËÑË÷
+! è±†ç“£ç”µå½±æœç´¢
 @@@@|https://erebor.douban.com
-! YouTubeÈ¥¹ã¸æ£¨ÍøÒ³°æ£©
+! YouTubeå»å¹¿å‘Šï¼ˆç½‘é¡µç‰ˆï¼‰
 |https://www.youtube.com/youtubei/v1/log_event
 |https://googleads.g.doubleclick.net
 ||https://youtube.com/get_midroll_
@@ -112,17 +112,17 @@ https://www.douyu.com##.closeBg-998534
 |https://googleads.g.doubleclick.net/pagead/id
 |s.youtube.com/api/stats/
 |https://s.youtube.com/api/stats/
-! 115ÉÏ´«ÎÄ¼ş·ÅĞĞ
+! 115ä¸Šä¼ æ–‡ä»¶æ”¾è¡Œ
 @@@@https://uplb.115.com
 @@@@||https://oss-cn-shenzhen.aliyuncs.com
 @@@@||https://oss-cn-shanghai.aliyuncs.com
-! MIUIÉ§ÈÅÀ¹½Ø¿â¸üĞÂ¹¦ÄÜ·ÅĞĞ
+! MIUIéªšæ‰°æ‹¦æˆªåº“æ›´æ–°åŠŸèƒ½æ”¾è¡Œ
 @@@@https://api.sec.miui.com
-!Î¢²©·ÖÏíÍ¼Æ¬·ÅĞĞ
+!å¾®åšåˆ†äº«å›¾ç‰‡æ”¾è¡Œ
 @@@@||https://sinaimg.cn
-! jsdelivr·ÅĞĞ
+! jsdelivræ”¾è¡Œ
 @@@@||https://jsdelivr.net
-! Ğ¡Ã×µçÊÓÈ¥¹ã¸æ ------------------ À´×ÔÍøÓÑ·ÖÏí----------------------------
+! å°ç±³ç”µè§†å»å¹¿å‘Š ------------------ æ¥è‡ªç½‘å‹åˆ†äº«----------------------------
 ||http://package.box.xiaomi.com
 ||https://package.box.xiaomi.com
 ||package.box.xiaomi.com
@@ -155,63 +155,63 @@ https://www.douyu.com##.closeBg-998534
 ||http://tracking.miui.com
 ||https://data.mistat.xiaomi.com
 ||https://tracking.miui.com
-!²¥·Å³öÏÖÎÊÌâÊ±  ¿ÉÒÔÉ¾¼õ ´ËÇøÓòµÄ Host µØÖ·
+!æ’­æ”¾å‡ºç°é—®é¢˜æ—¶  å¯ä»¥åˆ å‡ æ­¤åŒºåŸŸçš„ Host åœ°å€
 ||http://img.cdn.mvideo.xiaomi.com
 ||img.cdn.mvideo.xiaomi.com
 ||https://img.cdn.mvideo.xiaomi.com
-!=====  Í¨ÓÃĞÍ£º¹ã¸æÍ¶·ÅÉÌ À¹½Ø¹æÔò  ËùÓĞµçÊÓ¶¼¿ÉÒÔÓÃ ====
-!¾©¶«
+!=====  é€šç”¨å‹ï¼šå¹¿å‘ŠæŠ•æ”¾å•† æ‹¦æˆªè§„åˆ™  æ‰€æœ‰ç”µè§†éƒ½å¯ä»¥ç”¨ ====
+!äº¬ä¸œ
 ||http://im-x.jd.com
 ||https://im-x.jd.com
 ||im-x.jd.com
-!ÓÑÃË+
+!å‹ç›Ÿ+
 ||http://umeng.com
 ||https://umeng.com
 ||umeng.com
-!¿áÔÆ¼à²¥
+!é…·äº‘ç›‘æ’­
 ||http://ikuyun.com
 ||https://ikuyun.com
 ||kuyun.com
-!¹ã¶«ÄÏ·½ĞÂÃ½Ìå¹É·İ
+!å¹¿ä¸œå—æ–¹æ–°åª’ä½“è‚¡ä»½
 ||http://atianqi.com
 ||https://atianqi.com
 ||atianqi.com
 @@http://tv.aiseet.atianqi.com
 @@http://vv.play.aiseet.atianqi.com
-!ÒøºÓ»¥ÁªÍøµçÊÓ
+!é“¶æ²³äº’è”ç½‘ç”µè§†
 ||auth.api.gitv.tv
 ||appstore.ptmi.gitv.tv
 ||gamecenter.ptmi.gitv.tv
-! ÉÏº£Õê°²¾«Ë¶¹ã¸æÓĞÏŞ¹«Ë¾
+! ä¸Šæµ·è´å®‰ç²¾ç¡•å¹¿å‘Šæœ‰é™å…¬å¸
 ||admaster.com.cn
 ||v.admaster.com.cn
 ||79t2.admaster.com.cn
 ||397c0.admaster.com.cn
-! Ğ¡Ã×µçÊÓÈ¥¹ã¸æ½áÊø  -------------------- ·ÖÏí½áÊø--------------
-! speedtest.cn (¹úÄÚ)
+! å°ç±³ç”µè§†å»å¹¿å‘Šç»“æŸ  -------------------- åˆ†äº«ç»“æŸ--------------
+! speedtest.cn (å›½å†…)
 @@@@https://forge.speedtest.cn
-! Ò»¸ö¿´µçÊÓ¾çµÄÍøÕ¾
+! ä¸€ä¸ªçœ‹ç”µè§†å‰§çš„ç½‘ç«™
 ||https://yueyuju.com##.tp_reccomend_banner,[style="margin:8px 0;box-shadow: 0 1px 2px rgba(0,0,0,0.2);"],[ id="HMDownBox" ],[style="height: auto;"]
 |https://iek.jiekc.com
-! Ò»¸öÒÔÇ°KPµÄ¹æÖÆ
+! ä¸€ä¸ªä»¥å‰KPçš„è§„åˆ¶
 ||bbs.pcbeta.com$s@{padding:9px;width:980px;height:4??px;@{padding:9px;width:980px;height:260px;@
-! ÌÔ±¦£¬ÌìÃ¨ÆäÓà²¿·ÖÓòÃû·ÅĞĞ
+! æ·˜å®ï¼Œå¤©çŒ«å…¶ä½™éƒ¨åˆ†åŸŸåæ”¾è¡Œ
 @@@@https://ecpm.tanx.com
 @@@@https://g.alicdn.com
 @@@@https://img.alicdn.com
-! paypal API·ÅĞĞ
+! paypal APIæ”¾è¡Œ
 @@@@https://api-m.paypal.com
-!°Ù¶ÈÍøÅÌµÇÂ¼
+!ç™¾åº¦ç½‘ç›˜ç™»å½•
 @@@@https://passport.baidu.com
 @@@@https://pan.baidu.com
-!Ö§¸¶±¦Æ»¹ûÉè±¸·ÅĞĞ
+!æ”¯ä»˜å®è‹¹æœè®¾å¤‡æ”¾è¡Œ
 @@@@https://mygw.alipay.com
-!Î¢ĞÅ¹«ÖÚºÅ·ÅĞĞ
+!å¾®ä¿¡å…¬ä¼—å·æ”¾è¡Œ
 @@@@https://mmbiz.qpic.cn
 @@@@https://mp.weixin.qq.com
-! ----------------------------------------------ÇëÔÚ´ËĞĞÏßÒÔÉÏÌîĞ´ĞÂÔö¹æÔò------------------------------------------------------
+! ----------------------------------------------è¯·åœ¨æ­¤è¡Œçº¿ä»¥ä¸Šå¡«å†™æ–°å¢è§„åˆ™------------------------------------------------------
 ! ------------------------------------------------------------------------------------------------------------------------------
-!x  --------------------------------------------- ÒÔÏÂ¹æÔò°áÔË×Ô koolproxy -------------------------------------------------------
+!x  --------------------------------------------- ä»¥ä¸‹è§„åˆ™æ¬è¿è‡ª koolproxy -------------------------------------------------------
 /http:\/\/m\.[^/]*\/\d{3,}\.html\?/
 /http:\/\/m\.[^/]*\/\d{3,}\.html\?/
 /http:\/\/[^.]*\.m\.22ff\.com/
@@ -1171,4 +1171,4 @@ https://www.douyu.com##.closeBg-998534
 |http://*_index_banner$script
 |http://*_pop.js|$script,domain=~10086.cn|~granbluefantasy.jp
 |http://*_right_ad.$domain=~dzwww.com
-!-----------------------------------°áÔËÍê±Ï----------------------------------------------
+!-----------------------------------æ¬è¿å®Œæ¯•----------------------------------------------
